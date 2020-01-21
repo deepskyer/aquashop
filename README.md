@@ -1,0 +1,2 @@
+# aquashop
+a Django webapp
